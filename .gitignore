@@ -301,3 +301,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.dll
+*.txt
+Mol.vcxproj
+SDL2_image.lib
+*.filters
